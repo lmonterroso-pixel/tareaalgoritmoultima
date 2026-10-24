@@ -32,8 +32,7 @@ Este proyecto es un programa de consola en C# para administrar gastos. Permite r
 
 En el video explico , el repositorio, las consultas parametrizadas, la búsqueda por Id, la actualización, la eliminación, las validaciones y el manejo de errores. También ejecuto los escenarios.
 
-Enlace público del video:https://drive.google.com/file/d/1eBkWVhU55If_-O25ly1ZfkCKqpNxYw3t/view?usp=sharing
-
+Enlace público del video:https://drive.google.com/file/d/1AG5km5Qh9S4DHLQQQ-vq49QUnnDkHsOi/view?usp=drive_link
 ## Archivos del programa
 
 - Program.cs: menú, validaciones y comunicación con el usuario.
